@@ -8,6 +8,8 @@ Based on [Plugin.DeviceOrientation](https://github.com/wcoder/Xamarin.Plugin.Dev
 
 [Maui sample](https://github.com/compusport/Plugin.Maui.DeviceOrientation/tree/master/samples/Plugin.Maui.DeviceOrientation.Sample)
 
+version 1.1.0 targets .Net 10
+
 #### Setup
 
 * Available on NuGet: [![NuGet Badge](https://buildstats.info/nuget/Plugin.Maui.DeviceOrientation)](https://www.nuget.org/packages/Plugin.Maui.DeviceOrientation/)
@@ -138,4 +140,4 @@ public override void OnConfigurationChanged(Configuration newConfig)
 * [Christian Lavallee](https://github.com/compusport)
 
 ---
-&copy; 2016-2024 MIT License
+&copy; 2016-2026 MIT License
